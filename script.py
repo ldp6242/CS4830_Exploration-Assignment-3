@@ -29,3 +29,10 @@ def tip(bill):
 meal_cost = 100
 meal_with_tax = tax(meal_cost)
 meal_with_tip = tip(meal_with_tax)
+
+#powerFunction
+def power(base, exponent):  # Add your parameters here!
+    result = base**exponent
+    print "%d to the power of %d is %d." % (base, exponent, result)
+
+power(37,4)  # Add your arguments here!
