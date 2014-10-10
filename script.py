@@ -36,3 +36,8 @@ def power(base, exponent):  # Add your parameters here!
     print "%d to the power of %d is %d." % (base, exponent, result)
 
 power(37,4)  # Add your arguments here!
+
+#sqrtFunction
+import math
+print math.sqrt(25)
+
